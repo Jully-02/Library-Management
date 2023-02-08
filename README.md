@@ -1,4 +1,4 @@
-# Libary_Management_OOP
+# Libary Management
 ** Đồ Án Kết Thúc Học Phần Môn Lập Trình Hướng Đối Tượng OOP **
 
 # Thông Tin Môn Học:
