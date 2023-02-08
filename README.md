@@ -6,8 +6,8 @@
 </br>**GV       :**   Nguyễn Thị Khánh Tiên
 
 # Thông Tin Nhóm Thực Hiện
-* [Nguyễn Đức Thiệp](https://www.facebook.com/DucThiep02) - 21H1120054 - CN21CLCA
-* [Hồ Chí Nhân](https://www.facebook.com/SevenCoder03)     - 21H1120013 - CN21CLCA
+* [Nguyễn Đức Thiệp](https://www.facebook.com/DucThiep02)               - 21H1120054 - CN21CLCA
+* [Hồ Chí Nhân](https://www.facebook.com/SevenCoder03)                  - 21H1120013 - CN21CLCA
 * [Đỗ Kim Lâm](https://www.facebook.com/profile.php?id=100087436732423) - 21H1120042 - CN21CLCA
 
 # Thông Tin Chương Trình:
